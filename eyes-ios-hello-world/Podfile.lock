@@ -1,0 +1,16 @@
+PODS:
+  - EyesImages (2.1.0)
+
+DEPENDENCIES:
+  - EyesImages
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EyesImages
+
+SPEC CHECKSUMS:
+  EyesImages: 43ba010e2887e0ae8c1d25c9ee6567ffef099866
+
+PODFILE CHECKSUM: b115e66e27cd46b102c50383ed557e92f960b359
+
+COCOAPODS: 1.5.3
